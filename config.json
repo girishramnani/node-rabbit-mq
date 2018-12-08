@@ -1,0 +1,4 @@
+{
+    "QUEUE":"EMAIL",
+    "RABBIT_URL": "amqp://user:bitnami@localhost/"
+}
